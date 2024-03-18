@@ -1,5 +1,7 @@
 # AutoML-and-Adversarial-Attack-Defense-for-Zero-Touch-Network-Security
-This repository includes code for the AutoML-based IDS and adversarial attack defense case studies presented in the paper "Enabling AutoML for Zero-Touch Network Security: Use-Case Driven Analysis" published in IEEE Transactions on Network and Service Management.
+This repository includes code for the AutoML-based IDS and adversarial attack defense case studies presented in the paper "[Enabling AutoML for Zero-Touch Network Security: Use-Case Driven Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10472316)" published in IEEE Transactions on Network and Service Management.
+
+The paper is publicly available on Techrxiv: [Enabling AutoML for Zero-Touch Network Security: Use-Case Driven Analysis](https://www.techrxiv.org/users/692878/articles/682818-diving-into-zero-touch-network-security-use-case-driven-analysis)
 
 The complete code will be shared soon. 
 
