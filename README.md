@@ -48,6 +48,15 @@ The paper is publicly available on Techrxiv: [Enabling AutoML for Zero-Touch Net
 * Bayesian Optimization with Tree-structured Parzen Estimator (BO-TPE)
 * Particle Swarm Optimization (PSO)
 
+### AML Attacks 
+* Decision Tree Attack (DTA)
+* Fast Gradient Sign Method (FGSM)
+* Basic Iterative Method (BIM)
+
+### AML Defense Methods
+* Adversarial Sample Detection
+* Adversarial Sample Filtering/Removal
+
 ### Datasets 
 1. CICIDS2017 dataset, a popular network traffic dataset for intrusion detection problems
    * Publicly available at: https://www.unb.ca/cic/datasets/ids-2017.html  
