@@ -1,11 +1,13 @@
 # AutoML-and-Adversarial-Attack-Defense-for-Zero-Touch-Network-Security
 This repository includes code for the AutoML-based IDS and adversarial attack defense case studies presented in the paper "[Enabling AutoML for Zero-Touch Network Security: Use-Case Driven Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10472316)" published in IEEE Transactions on Network and Service Management.
 
-The paper is publicly available on Techrxiv: [Enabling AutoML for Zero-Touch Network Security: Use-Case Driven Analysis](https://www.techrxiv.org/users/692878/articles/682818-diving-into-zero-touch-network-security-use-case-driven-analysis)
+The paper is publicly available on:  
+* Techrxiv: [Enabling AutoML for Zero-Touch Network Security: Use-Case Driven Analysis](https://www.techrxiv.org/users/692878/articles/682818-diving-into-zero-touch-network-security-use-case-driven-analysis)
+* arXiv: [Enabling AutoML for Zero-Touch Network Security: Use-Case Driven Analysis](https://arxiv.org/abs/2502.21286)
 
-- This code is an extension of the comprehensive **Automated Machine Learning (AutoML)** tutorial code can be found in: [AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics)  
-   * Including **automated data pre-processing, automated feature engineering, automated model selection, hyperparameter optimization, and automated model updating** (concept drift adaptation).
-   * For cybersecurity and intrusion detection system development in both static and dynamic networking environments.
+This code is an extension of the comprehensive **Automated Machine Learning (AutoML)** tutorial code can be found in: [AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics](https://github.com/Western-OC2-Lab/AutoML-Implementation-for-Static-and-Dynamic-Data-Analytics)  
+ * Including **automated data pre-processing, automated feature engineering, automated model selection, hyperparameter optimization, and automated model updating** (concept drift adaptation).
+ * For cybersecurity and intrusion detection system development in both static and dynamic networking environments.
 
 ## AutoML Pipeline and Procedures
 1. Automated Data Pre-Processing
